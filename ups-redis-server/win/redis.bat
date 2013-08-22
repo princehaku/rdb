@@ -1,0 +1,1 @@
+redis-ups-server.exe redis-ups.conf
